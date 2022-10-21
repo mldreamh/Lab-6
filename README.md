@@ -9,10 +9,10 @@
 - Ввести число критериев
 - Ввести данные попарного сравнения критериев
 # Тесты
-тест 1
+Тест 1
 ___
 ![](https://github.com/I-D-S/Saati/blob/main/tests/%D1%82%D0%B5%D1%81%D1%821.png)
 ___
-тест 2
+Тест 2
 ___
 ![](https://github.com/I-D-S/Saati/blob/main/tests/%D1%82%D0%B5%D1%81%D1%822.png)
